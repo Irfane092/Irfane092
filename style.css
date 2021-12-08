@@ -7,7 +7,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     height: 100vh;
-    background-image: url(/images/wallpaperflare.com_wallpaper.jpg);
+
 }
 nav{
     width: 100%;
@@ -38,7 +38,6 @@ nav{
 }
 .home{
     height: 100vh;
-    color: #f1f1f1;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
